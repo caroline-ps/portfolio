@@ -13,5 +13,4 @@ User Testing
 
 [Page B](./b.md)
 
-[In-time](../intime)
-<!--  https://github.com/ux-me/intime -->
+[In-time](https://github.com/ux-me/intime)
