@@ -18,4 +18,4 @@ User Testing
 ---------------------------------------------------
 
 [See my research projects](/Design/Research.md)
-![This is me](/Image/me.jpg)
+![This is me](/Image/me.jpg.jpg)
