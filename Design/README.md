@@ -60,3 +60,4 @@ Although, I think it can be useful in my job as a designer in many occasions as 
 I can do simple illustrations using Adobe programs, both static and simply animated (for example animated GIFS). Below it is an overview of some of my work.
 
 ![heart](/Images/heart.jpg)
+![jellyfish](/Images/jellyfish.jpg)
