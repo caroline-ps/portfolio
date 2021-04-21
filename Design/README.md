@@ -48,3 +48,7 @@ I have knowleadge and experience working with the most common prototypes tools, 
 Below there is a study case I have done where I realized a high-fidelity prototype for a health-coach app. 
 
 [UX-Prototype](UX-Prototype.pdf)
+
+--------------------------------------------------------------------------------------------------
+
+## Illustrations
