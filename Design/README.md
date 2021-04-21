@@ -52,3 +52,11 @@ Below there is a study case I have done where I realized a high-fidelity prototy
 --------------------------------------------------------------------------------------------------
 
 ## Illustrations
+
+On a side note, I am really passionate about arts as well. I have always loved to draw, paint and express myself visually.
+Recently I have begun to learn and realize some digital illustrations. It is something I am passionate about and enjoy doing even as just of a hobby.
+Although, I think it can be useful in my job as a designer in many occasions as well. It is a perfect win-win case for me!
+
+I can do simple illustrations using Adobe programs, both static and simply animated (for example animated GIFS). Below it is an overview of some of my work.
+
+
