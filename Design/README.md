@@ -18,4 +18,4 @@ Good ideas are the product of a mix of different assets such as creativity, know
 
 In the case study below I worked on solving the problem of loneliness among young people in Norway by defining what the main issue was and trying to ideate possible solutions.
 
-[UX-Ideation](UX-Ideation.pdf)
+https://drive.google.com/file/d/10VqYGsGkiNusdJeFcIqxbT7s2Nz2uGgW/view?usp=sharing
