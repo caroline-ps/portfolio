@@ -19,7 +19,7 @@ The first one is that it helps me work better as a designer, as I am able to und
 ideas are, how hard it would be to realize them, how much time it would require, etc. This helps in having a better communication
 with developers. 
 The second reason I like front-end is because it offers me the satisfaction of working on a project and being able to understand it 
-and realize it in almost its entirety from start to end. This gives me an incredible sense of accomplishment. 
+and realize it in almost its entirety from start to end. 
 
 I have taken a one-year UX Design course at the University of Noroff in Oslo, and I always look forward on continuing my education
 and learning new, exciting ways to become better in my profession and therefore offer more value in my work.
