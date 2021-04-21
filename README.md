@@ -1,6 +1,6 @@
 # My Portfolio
 
-![me](/images/me.jpg)
+![me](/Images/me.jpg)
 
 My name is Caroline Silva and I am a UX designer in Oslo, Norway. 
 I have a deep interest and passion for arts, design and technology, because I believe they can help improve people's lives.
