@@ -4,4 +4,4 @@ Albert Einstein said it best "If I had an hour to solve a problem I’d spend 55
 
 Here is a case study I did at the beginning of my UX Design course that primarily focused on this first design process step.
 
-[Research & Insights](Research & Insights.pdf)
+[UX-Research](UX-Research.pdf)
