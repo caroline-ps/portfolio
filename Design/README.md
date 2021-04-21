@@ -58,6 +58,7 @@ Recently I have begun to learn and realize some digital illustrations. It is som
 Although, I think it can be useful in my job as a designer in many occasions as well. It is a perfect win-win case for me!
 
 I can do simple illustrations using Adobe programs, both static and simply animated (for example animated GIFS). Below it is an overview of some of my work.
+<p>&nbsp</p>
 
 ![heart](/Images/heart.jpg)
 ![jellyfish](/Images/jellyfish.jpg)
