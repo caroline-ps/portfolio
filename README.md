@@ -13,6 +13,8 @@ User Testing
 
 [Page B](./b.md)
 
-[Ux Research](./design)
-
 [In-time](https://github.com/ux-me/intime)
+
+---------------------------------------------------
+
+(/Design/Ux Research)
