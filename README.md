@@ -10,7 +10,7 @@ I always look forward to learning more, get to know new people and jump into new
 
 Here you can find an overview of my most relevant projects within UX design and Front-end.
 
-## UX Design
+<b>UX Design</b>
 
 We all seek a meaningful life. I became appasionate in UX Design after I realized how many possibilieties there are in this
 profession of making a real difference in people's lives. I have always being interested in people, technology and arts. 
