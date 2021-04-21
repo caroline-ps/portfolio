@@ -17,4 +17,4 @@ User Testing
 
 ---------------------------------------------------
 
-(/Design/Ux Research)
+[See my research projects](/Design/Ux Research)
