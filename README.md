@@ -18,51 +18,19 @@ UX design encompasses all my three biggest interests while at the same time offe
 I have taken a one-year UX Design course at the University of Noroff in Oslo, and I always look forward on continuing my education
 and learning new, exciting ways to become better in my profession and therefore offer more value in my work.
 
-Below you can access some of my most relevant UX Design projects.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Here is an overview of my most relevant design and front-end projects.
 
 --------------------------------------------------------------------------------------
 
-# Caroline Pereira's Portfolio
+## UX Design
 
-Here you can find all my case studies and projects.
+--------------------------------------------------------------------------------------
 
-![Myimage](/Images/myimage.jpg.jpg)
-
-## Index
-
-Research  
-Wireframes  
-Prototype  
-User Testing
-
-[Page B](./b.md)
+## Front-End
 
 [In-time](https://github.com/ux-me/intime)
 
----------------------------------------------------
+--------------------------------------------------------------------------------------
 
-[See my research projects](/Design/Research.md) 
-
-<p>&nbsp;</p>
+## Illustrations
 
