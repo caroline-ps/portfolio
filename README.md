@@ -29,3 +29,9 @@ Here is an overview of my most relevant design and front-end projects.
 ## [Design](/Design)
 
 ## [Front-End](https://github.com/ux-me/intime)
+
+---------------------------------------------------------------------
+
+# Contact Me
+
+<b> Email: carolineps083@gmail.com
