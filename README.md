@@ -20,9 +20,7 @@ and learning new, exciting ways to become better in my profession and therefore 
 
 Here is an overview of my most relevant design and front-end projects.
 
---------------------------------------------------------------------------------------
-
-[Design](/Design)
+## [Design](/Design)
 
 --------------------------------------------------------------------------------------
 
