@@ -18,5 +18,7 @@ User Testing
 ---------------------------------------------------
 
 [See my research projects](/Design/Research.md) 
+
 <p>&nbsp;</p>
+
 ![me](/Images/me.jpg)
