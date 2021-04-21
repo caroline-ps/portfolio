@@ -1,4 +1,4 @@
-**Research & Insights
+## Research & Insights
 
 In UX Design the main focus is on how to improve people's lives by offering better solutions to real-life problems. Therefore, the most important step in the UX Design process is to understand the user and what his root-problem is.
 
