@@ -1,6 +1,6 @@
 ## The Fashion Industry & The Water Crisis
 
-![pollution](./Images/pollution.jpg)
+![pollution](../Images/pollution.jpg)
 
 In the last years there has been an increasing focus on conscious living and more sustainable choices. However, there seems to be still many people who don't know how they can contribute to a cleaner environment and how their choices as consumers impact the eco-systems. The fashion industry is the second largest water-consuming industry worl-wide.
 In my school semester assignment I focused on researching this issue, ideating, realizing and testing a possible solution.
