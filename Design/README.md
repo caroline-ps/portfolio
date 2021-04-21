@@ -1,3 +1,14 @@
+## The Fashion Industry & The Water Crisis
+
+In the last years there has been an increasing focus on conscious living and more sustainable choices. However, there seems to be still many people who don't know how they can contribute to a cleaner environment and how their choices as consumers impact the eco-systems. The fashion industry is the second largest water-consuming industry worl-wide.
+In my school semester assignment I focused on researching this issue, ideating, realizing and testing a possible solution.
+
+This case study was conducted at half of my UX Design course and it offered me a great opportunity to apply my competences. It was a great learning bases, and since then I have learned much more on how to work more effectively.
+
+You can access this case study by clicking the link below.
+
+[Water&Fashion](Water&Fashion.pdf)
+
 ## Research & Insights
 
 In UX Design the main focus is on how to improve people's lives by offering better solutions to real-life problems. Therefore, the most important step in the UX Design process is to understand the user and what his root-problem is.
