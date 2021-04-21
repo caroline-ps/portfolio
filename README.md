@@ -8,8 +8,6 @@ In future I would like to continue my education and learn even more about design
 I love working on meaningful projects that accomplish practical goals and offer good solutions to real problems. 
 I always look forward to learning more, get to know new people and jump into new interesting opportunities.
 
-Here you can find an overview of my most relevant projects within UX design and Front-end.
-
 <b>My passion for UX Design and Front-End</b>
 
 We all seek a meaningful life. I became appasionate in UX Design after I realized how many possibilieties there are in this
