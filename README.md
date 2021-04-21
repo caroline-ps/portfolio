@@ -66,4 +66,3 @@ User Testing
 
 <p>&nbsp;</p>
 
-![me](/Images/me.jpg)
