@@ -17,4 +17,4 @@ User Testing
 
 ---------------------------------------------------
 
-[See my research projects](/Design/Ux Research.md)
+[See my research projects](/Design/Research.md)
