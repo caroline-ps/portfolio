@@ -33,7 +33,7 @@ In the case study below I worked on solving the problem of loneliness among youn
 
 https://drive.google.com/file/d/10VqYGsGkiNusdJeFcIqxbT7s2Nz2uGgW/view?usp=sharing
 
-## Wireframing & Prototyping
+## Wireframes & Prototypes
 
 Realizing a product requires massive resources in terms of time, energy and money and it usually involves a team. In past it was common to follow the waterfall work-methodology
 which consisted of following a chronological, straigh-forward work method. That method of work can be beneficial in some instances, but can also lead to massive wastes of time and efforts when for example a team realizes that the product they've been working all along doesn't actually satisfy the market requests.
