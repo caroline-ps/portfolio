@@ -24,7 +24,4 @@ Here is an overview of my most relevant design and front-end projects.
 
 ## [Front-End](https://github.com/ux-me/intime)
 
-## Front-End
-
-[In-time](https://github.com/ux-me/intime)
 
